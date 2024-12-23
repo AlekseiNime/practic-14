@@ -1,0 +1,7 @@
+D:\Програмные коды\bb\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Програмные коды\bb\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Програмные коды\bb\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Програмные коды\bb\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Програмные коды\bb\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Програмные коды\bb\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Програмные коды\bb\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
